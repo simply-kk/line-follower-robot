@@ -31,7 +31,7 @@ A smart line-following robot built with **Arduino UNO**, **IR sensors**, and an 
 
 > *(Replace with your link — YouTube or Google Drive)*
 
-🎬 [Click to watch the robot in action](https://your-video-link.com)
+🎬 [Click to watch the robot in action](images/demo.gif)
 
 ---
 
@@ -62,50 +62,3 @@ A smart line-following robot built with **Arduino UNO**, **IR sensors**, and an 
 
 ---
 
-## 📥 Pushing Changes
-
-If you encounter the error message:
-
-```
-error: failed to push some refs to 'https://github.com/simply-kk/line-follower-robot.git'
-hint: Updates were rejected because the remote contains work that you do not
-hint: have locally. This is usually caused by another repository pushing to 
-hint: the same ref. If you want to integrate the remote changes, use        
-hint: 'git pull' before pushing again.
-```
-
-Follow these steps to fix:
-
-1. **Pull the latest changes from GitHub and reapply your changes:**
-   ```sh
-   git pull --rebase
-   ```
-   - This will fetch and apply the remote changes, then reapply your local commits on top.
-
-2. **Push your changes again:**
-   ```sh
-   git push
-   ```
-
----
-
-## **Step-by-step:**
-
-1. Open your terminal in the project directory.
-2. Run:
-   ```
-   git pull --rebase
-   ```
-   - If there are any conflicts, Git will tell you and you'll need to resolve them.
-   - After resolving any conflicts, run:
-     ```
-     git rebase --continue
-     ```
-3. Once the pull/rebase is complete, push your changes:
-   ```
-   git push
-   ```
-
----
-
-Would you like me to run these commands for you, or do you want to try them yourself? If you see any conflicts or errors during the process, just let me know and I'll help you resolve them!
