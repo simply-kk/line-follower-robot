@@ -70,15 +70,19 @@ Here's what the final working robot looks like:
 5. Power your robot and place it on a line
 
 ---
+
 ## 📁 Project Structure
+
+```
 line-follow-robot/
 ├── line_follower.ino
 ├── components.md
 ├── images/
-│ ├── demo.gif
-│ ├── demo.mp4
-│ ├── robot-snapshot1.jpg
-│ ├── robot-snapshot2.jpg
-│ └── circuit-diagram.jpg
+│   ├── demo.gif
+│   ├── demo.mp4
+│   ├── robot-snapshot1.jpg
+│   ├── robot-snapshot2.jpg
+│   └── circuit-diagram.jpg
+```
 
 ---
