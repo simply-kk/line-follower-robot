@@ -19,20 +19,29 @@ A smart line-following robot built with **Arduino UNO**, **IR sensors**, and an 
 
 ---
 
-## 🔧 Circuit Diagram
+## 🔌 Circuit Diagram
 
-> *(Upload and link your circuit image here)*
+Schematic showing how everything is connected:
 
-![Circuit Diagram](images/circuit-diagram.png)
+![Circuit Diagram](images/circuit-diagram.jpg)
+
+---
+
+## 🤖 Robot Snapshots
+
+Here's what the final working robot looks like:
+
+| Front View | Side View |
+|------------|-----------|
+| ![](images/robot-snapshot1.jpg) | ![](images/robot-snapshot2.jpg) |
 
 ---
 
 ## 📽️ Robot in Action – Demo
 
-> *(Replace with your link — YouTube or Google Drive)*
+![Line Follower Demo](images/demo.gif)
 
-🎬 [Click to watch the robot in action](images/demo.gif)
-
+> 🎥 Full video also available as [demo.mp4](images/demo.mp4)
 ---
 
 ## ⚙️ Components Used
@@ -61,4 +70,15 @@ A smart line-following robot built with **Arduino UNO**, **IR sensors**, and an 
 5. Power your robot and place it on a line
 
 ---
+## 📁 Project Structure
+line-follow-robot/
+├── line_follower.ino
+├── components.md
+├── images/
+│ ├── demo.gif
+│ ├── demo.mp4
+│ ├── robot-snapshot1.jpg
+│ ├── robot-snapshot2.jpg
+│ └── circuit-diagram.jpg
 
+---
