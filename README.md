@@ -39,7 +39,7 @@ Here's what the final working robot looks like:
 
 ## 📽️ Robot in Action – Demo
 
-![Line Follower Demo](images/demo.gif)
+> *(Replace with your link — YouTube or Google Drive)*
 
 > 🎥 Full video also available as [demo.mp4](images/demo.mp4)
 ---
