@@ -29,7 +29,7 @@ A smart line-following robot built with **Arduino UNO**, **IR sensors**, and an 
 
 ## 📽️ Robot in Action – Demo
 
-> *(Replace with your link — YouTube or Google Drive)*
+
 
 🎬 [Click to watch the robot in action](images/demo.gif)
 
